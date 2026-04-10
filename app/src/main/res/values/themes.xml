@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ITDepartmentApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#003087</item>
+        <item name="colorPrimaryVariant">#001F5B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FFD700</item>
+        <item name="colorOnSecondary">#000000</item>
+    </style>
+
+    <style name="Theme.ITDepartmentApp" parent="Base.Theme.ITDepartmentApp" />
+</resources>
